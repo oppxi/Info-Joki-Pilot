@@ -1,0 +1,51 @@
+## Jaga Account
+Order atau Chat saya di
+
+Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
+
+
+![gambar](https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/assets/136698330/56e170c1-74d5-4560-8c2a-92afb614d5d2)
+
+
+# ⭐ Genshin Impact
+- Biasa ( Daily Resin )
+```
+1 Patch = 35myr
+1 Bulan = 20myr
+1 Minggu = 17myr
+1 Hari = 3myr
+```
+- Special
+```
+1 Patch = 46myr
+1 Bulan = 28myr
+1 Minggu = 20myr
+1 Hari = 7myr
+```
+
+# ⭐ Honkai Star Rail
+- Biasa ( Daily Trailblaze Power )
+```
+1 Patch = 27myr
+1 Bulan = 20myr
+1 Minggu = 17myr
+1 Hari = 3myr
+```
+- Special
+```
+1 Patch = 46myr
+1 Bulan = 28myr
+1 Minggu = 70k
+1 Hari = 20myr
+```
+## Info Lanjut
+- Boleh request Resin/ Trailblaze Power buang ke mana ( Biasa, Special )
+- Free looting material sekitar/ Random ( Biasa, Special )
+- Clear daily mission BP ( Biasa, Special )
+- Clear weekly mission BP ( Special )
+- Free Clear Event limited selama Joki ( Special )
+- Free Request Build Character ( Special )
+- Bonus level max BP* ( Special )
+- Dijaga seperti account pribadi ✔
+  
+Jaga pakai cheat boleh, nanti ku kasih diskoun
