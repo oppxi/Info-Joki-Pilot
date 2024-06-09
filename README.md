@@ -9,6 +9,7 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 > [Harga Joki Cheat](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/HargaJoki.md>)
 
 ## ⭐ Honkai Star Rail
+> [Harga Joki Cheat](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/HonkaiStarRail.md>)
 
 ## ✨ Jaga Acc
 > [Genshin Impact / Honkai Star Rail](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/JagaAccount.md>)
@@ -16,4 +17,4 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 ---------
 --------
 -------
-
+https://github.com/oppxi/Info-Joki-Pilot/blob/main/HonkaiStarRail.md
