@@ -1,4 +1,4 @@
-# List Harga Joki
+# Genshin Impact Harga Joki
 
 Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 ```
