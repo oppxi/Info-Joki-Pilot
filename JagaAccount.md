@@ -47,5 +47,3 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 - Free Request Build Character ( Special )
 - Bonus level max BP* ( Special )
 - Dijaga seperti account pribadi ✔
-  
-Jaga pakai cheat boleh, nanti ku kasih diskoun
