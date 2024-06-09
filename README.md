@@ -7,7 +7,7 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 # Untuk harga bisa cek di bawah ini
 
 ## ⭐ Genshin Impact
-> [Harga Joki Cheat](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/HargaJoki.md>)
+> [Harga Joki Cheat](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/GenshinImpact.md>)
 
 ## ⭐ Honkai Star Rail
 > [Harga Joki Cheat](<https://github.com/oppxi/Info-Joki-Pilot/blob/main/HonkaiStarRail.md>)
