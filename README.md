@@ -17,4 +17,3 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 ---------
 --------
 -------
-https://github.com/oppxi/Info-Joki-Pilot/blob/main/HonkaiStarRail.md
