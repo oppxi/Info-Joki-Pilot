@@ -39,6 +39,7 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 1 Hari = 12myr
 ```
 ## Info Lanjut
+- Free Spiral Abyss ( Special )
 - Boleh request Resin/ Trailblaze Power buang ke mana ( Biasa, Special )
 - Free looting material sekitar/ Random ( Biasa, Special )
 - Clear daily mission BP ( Biasa, Special )
