@@ -11,32 +11,32 @@ Discord - [OPPXI](<https://discordapp.com/users/1020301464704397402>)
 - Biasa ( Daily Resin )
 ```
 1 Patch = 35myr
-1 Bulan = 20myr
+1 Bulan = 25myr
 1 Minggu = 17myr
-1 Hari = 3myr
+1 Hari = 5myr
 ```
 - Special
 ```
 1 Patch = 46myr
-1 Bulan = 28myr
+1 Bulan = 35myr
 1 Minggu = 20myr
-1 Hari = 7myr
+1 Hari = 12myr
 ```
 
 # ⭐ Honkai Star Rail
 - Biasa ( Daily Trailblaze Power )
 ```
-1 Patch = 27myr
-1 Bulan = 20myr
+1 Patch = 35myr
+1 Bulan = 26myr
 1 Minggu = 17myr
-1 Hari = 3myr
+1 Hari = 5myr
 ```
 - Special
 ```
 1 Patch = 46myr
-1 Bulan = 28myr
-1 Minggu = 70k
-1 Hari = 20myr
+1 Bulan = 35myr
+1 Minggu = 20myr
+1 Hari = 12myr
 ```
 ## Info Lanjut
 - Boleh request Resin/ Trailblaze Power buang ke mana ( Biasa, Special )
